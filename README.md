@@ -1,4 +1,4 @@
-This repository contains my firs Ionic 2 App.
+This repository contains my first Ionic 2 App.
 
 Was created following a tutorial with no other purpose than learning Ionic 2
 
